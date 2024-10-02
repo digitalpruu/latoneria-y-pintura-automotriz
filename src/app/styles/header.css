@@ -44,6 +44,7 @@
     }
     .logo img {
         height: 90px;
+        border-radius: 30%;
         transition: transform 0.3s ease;
     }
     .logo:hover {
